@@ -36,6 +36,6 @@
 
 	ts-node index.ts remove -p <pooladdress> -a <amount>  //set amount -1 to remove all liquidity
 
-Donate: 5aGbT8aJmj5k1m45DeWygsvbax5xrhpLYeSZoMkMvAig
+Donate: EUbWfG5K88pWypPb9JsS1YX6s9dHpHN5QjidGnxRtCzo
 Enquiry_telegram: https://t.me/emmanuelfides1
 
